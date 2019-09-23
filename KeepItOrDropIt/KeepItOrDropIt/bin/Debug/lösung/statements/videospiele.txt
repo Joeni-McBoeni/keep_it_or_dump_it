@@ -1,0 +1,20 @@
+﻿Spiele, die einen lokalen Mehrspielermodus an einem einzelnen Gerät haben
+10000001000000101000000010000000
+Spiele, die eine offizielle deutsche Übersetzung erhalten haben
+01100111101111110111111011111110
+Spiele, dessen Hauptcharakter ein Kämpfer in Super Smash Bros ist
+01000011000000000111001111100001
+Spiele, die in der 'World Video Game Hall of Fame' aufgenommen wurden
+00010010010010001001000100000001
+Spiele, die laut PEGI nicht für Kindern unter zwölf Jahren geeignet sind
+10111011101111110101110011011110
+Spiele, die auf einer Nintendo-Konsole erschienen sind
+11111111011100001111011101100001
+Spiele, in denen eine Spinne als Gegner vorkommt
+11111100001011000101010000000000
+Spiele, die von japanischen Entwicklern stammen
+01000010000100000101001111100001
+Spiele, dessen Original sich über 10 Millionen mal verkauft hat
+01000101011010010001010100101100
+Spiele, die auf verschiedenen Schwierigkeitsgraden gespielt werden können
+10110100011011100100110011001001
