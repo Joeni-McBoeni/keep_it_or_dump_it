@@ -4,6 +4,7 @@ A small quiz game I've been developing last summer. Based on this [video by Tom 
 
 ## Installation
 Just download the folder, and open the following file:
+
 KeepItOrDropIt\KeepItOrDropIt\bin\Debug\KeepItOrDropIt.exe
 
 ## How to play
